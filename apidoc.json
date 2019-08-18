@@ -2,6 +2,7 @@
     "name" : "BugTracker Application",
    "version":"1.0.0",
    "description":"Documentation for the bugtracker app",
-   "title" :"BUGTRACKER APIs"
+   "title" :"BUGTRACKER APIs",
+   "url" :"http://localhost:3002"
    
 }
