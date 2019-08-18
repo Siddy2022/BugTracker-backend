@@ -1,7 +1,7 @@
 const express = require('express');
 let appConfig={};
 
-appConfig.port = 3002;
+appConfig.port = 3000;
 
 appConfig.allowedCorsOrigin="*";
 
